@@ -8,3 +8,4 @@ Consistency: Solve at least one LeetCode problem daily to build a strong algorit
 Mastery: Deepen my understanding of fundamental data structures (Arrays, Linked Lists, Trees, Graphs, Heaps) and algorithms (Dynamic Programming, Backtracking, Sorting, Searching).
 
 Portfolio: Document my problem-solving approach and clean code implementation for technical interview preparation. 
+
