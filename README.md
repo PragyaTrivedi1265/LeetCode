@@ -1,4 +1,4 @@
- LeetCode
+LeetCode
 LeetCode Solutions: My Daily DSA Practice
 A curated collection of my solutions to problems on LeetCode, implemented primarily in Python / Java. This repository serves as a personal log of my Data Structures and Algorithms (DSA) learning journey and a resource for tracking my progress
 Goals & Motivation
