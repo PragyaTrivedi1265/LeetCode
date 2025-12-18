@@ -4,7 +4,7 @@ A curated collection of my solutions to problems on LeetCode, implemented primar
 Goals & Motivation
 Consistency: Solve at least one LeetCode problem daily to build a strong algorithmic foundation.
 
-Mastery: Deepen my understanding of fundamental data structures (Arrays, Linked Lists, Trees, Graphs , Heaps) and algorithms (Dynamic Programming, Backtracking, Sorting, Searching).
+Mastery: Deepen my understanding of fundamental data structures (Arrays, Linked Lists, Trees, Graphs  , Heaps) and algorithms (Dynamic Programming, Backtracking, Sorting, Searching).
 
 Portfolio: Document my problem-solving approach and clean code implementation for technical interview preparation.  
 
